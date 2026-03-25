@@ -1,0 +1,5 @@
+Name:K.Gayathri
+Course:BSC-CS
+College:Kakinada Aditya degree college,srikakulam
+Section:BSc-b
+Attendence:80%

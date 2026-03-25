@@ -1,4 +1,4 @@
 Name:K.Gayathri
 Course:BSc-cs
 I learned in GitHub is to pull my projects
-
+https://github.com/gayathri2321-karri/my-first-repo/blob/main/experient2.txt
